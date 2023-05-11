@@ -10,3 +10,5 @@ is the 3D position of a point in the scene, d = (θ, ϕ) is the viewing directio
 of the point and σ is its density. The problem we will try to solve here, and the one that the NeRF
 paper approached, is that given a number of 2D views of the same static scene, to be able to render
 novel views of that scene.
+
+![image](https://github.com/adithyakvh/NeRF/assets/42107613/a6735fd7-2d40-4016-868d-a3c074fcf86e)
