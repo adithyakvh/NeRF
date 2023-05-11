@@ -17,3 +17,6 @@ The novel view that is rendered is below.
 
 
 ![NeRF Target](https://github.com/adithyakvh/NeRF/assets/42107613/2ec3d1f8-33ce-4f74-b2fc-6eace7090c35)
+
+
+![download](https://github.com/adithyakvh/NeRF/assets/42107613/1e53fae0-cc46-425d-9eca-68dac4a51ee4)
