@@ -5,7 +5,7 @@ color and density. Though every fixed point in the scene has a fixed density, th
 the color. Each point can have a different color depending on the viewing direction if we assume the
 surface to be non-Lambertian.
 
-/p Thus a 3D scene is representing by the mapping (x, y, z, θ, ϕ) = (x, d) → (c, σ) where x = (x, y, z)
+Thus a 3D scene is representing by the mapping (x, y, z, θ, ϕ) = (x, d) → (c, σ) where x = (x, y, z)
 is the 3D position of a point in the scene, d = (θ, ϕ) is the viewing direction, c = (r, g, b) is the color
 of the point and σ is its density. The problem we will try to solve here, and the one that the NeRF
 paper approached, is that given a number of 2D views of the same static scene, to be able to render
