@@ -12,3 +12,8 @@ paper approached, is that given a number of 2D views of the same static scene, t
 novel views of that scene.
 
 ![image](https://github.com/adithyakvh/NeRF/assets/42107613/a6735fd7-2d40-4016-868d-a3c074fcf86e)
+
+The novel view that is rendered is below.
+
+![image](https://github.com/adithyakvh/NeRF/assets/42107613/1254b680-a364-4c90-9c03-6bb793a35e33)
+
