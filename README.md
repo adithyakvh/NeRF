@@ -16,7 +16,7 @@ novel views of that scene.
 The novel view that is rendered is below.
 
 
-![NeRF Target](https://github.com/adithyakvh/NeRF/assets/42107613/2ec3d1f8-33ce-4f74-b2fc-6eace7090c35)
+![NeRF_Target](https://github.com/adithyakvh/NeRF/assets/42107613/fe04a676-6a6d-4d72-9191-75928a5f23ae)
 
+![download](https://github.com/adithyakvh/NeRF/assets/42107613/99c2a4cf-13a8-4454-be36-17fe0e7166ca)
 
-![download](https://github.com/adithyakvh/NeRF/assets/42107613/1e53fae0-cc46-425d-9eca-68dac4a51ee4)
